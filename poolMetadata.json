@@ -1,0 +1,6 @@
+{
+    "name": "TestEcoPool",
+    "description": "The test eco pool that tests all the pools",
+    "ticker": "EcoPool",
+    "homepage": "https://github.com/luisnaranjo733/cardano-testnet-node"
+    }
